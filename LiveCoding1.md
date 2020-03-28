@@ -14,6 +14,9 @@ dans ce film. Un acteur a un nom et un prénom
 ```
 *Requête1*
 
+```js
+use Cinema
+```
 
 ```console
 2-Insérer le film "The godfather" réalisé par "Francis Ford Coppola" dans 
