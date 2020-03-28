@@ -29,7 +29,7 @@ db.Cinema.insert(
                 {nom :"Le code magique", 
                 realisateur :"Jhon Codeur",
                 acteurs :[
-                           {nom :"Drogba", prenom :"Drogba"}, 
+                           {nom :"Drogba", prenom :"Didier"}, 
                            {nom :"Cabantus",prenom :"Pierre"},
                            {nom :"Messi", prenom :"Lionel"}
                          ]
